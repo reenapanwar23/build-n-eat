@@ -1,0 +1,22 @@
+.CheckoutSummary {
+  text-align: center;
+  width: 100%;
+  margin-top: 80px;
+  font-family: inherit;
+  letter-spacing: 0.06rem;
+  font-weight: 500;
+}
+.CheckoutSummary h2 {
+  margin: 0 auto;
+}
+
+@media (max-width: 380px) {
+  .CheckoutSummary h2 {
+    font-size: 1rem;
+    letter-spacing: 0.04rem;
+  }
+
+  .CheckoutSummary .Burger {
+    height: 300px;
+  }
+}

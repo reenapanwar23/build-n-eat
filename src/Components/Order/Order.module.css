@@ -1,0 +1,18 @@
+.Order {
+  font-family: inherit;
+  width: 100%;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+  padding: 10px;
+  margin: 10px auto;
+  box-sizing: border-box;
+  letter-spacing: 0.07rem;
+}
+
+.Order p {
+  font-weight: 500;
+  letter-spacing: 0.1rem;
+}
+.OrderBg {
+  height: 90vh;
+}

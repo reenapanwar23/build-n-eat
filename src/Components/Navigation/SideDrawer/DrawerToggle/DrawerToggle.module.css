@@ -1,0 +1,27 @@
+.DrawerToggle {
+  width: 40px;
+  height: 80%;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.DrawerToggle div {
+  width: 75%;
+  height: 3px;
+  background-color: white;
+}
+
+/* .DrawerToggle :hover{
+    background-color: rgba(255, 255, 255, 0.37);
+} */
+
+@media (min-width: 650px) {
+  .DrawerToggle {
+    display: none;
+  }
+}

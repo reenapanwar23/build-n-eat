@@ -1,0 +1,22 @@
+.errMsg {
+  margin: auto;
+  align-items: center;
+  height: 90vh;
+}
+
+.errMsg p {
+  font-weight: bold;
+  display: inline-block;
+  margin: 0.6rem auto;
+  font-size: 1.3rem;
+  text-align: center;
+  box-sizing: border-box;
+  box-shadow: grey;
+  padding: 5rem 3rem;
+}
+
+@media (max-width: 350) {
+  .errMsg p {
+    font-size: 0.6rem;
+  }
+}

@@ -1,0 +1,34 @@
+.Button {
+  width: 13rem;
+  height: 2.5rem;
+  cursor: pointer;
+  color: black;
+  background-color: transparent;
+  border-style: solid;
+  border-color: black;
+  border-radius: 2px;
+  text-transform: uppercase;
+  font-size: 1.1rem;
+  font-weight: bold;
+  font-variant: small-caps;
+  letter-spacing: 0.12rem;
+  outline-style: none;
+  overflow: hidden;
+}
+.Button:hover,
+.Button:active {
+  background-color: black;
+  color: white;
+  width: 14rem;
+}
+
+@media (max-width: 380px) {
+  .Button {
+    width: 90%;
+    font-size: 1rem;
+  }
+  .Button:hover,
+  .Button:active {
+    width: 98%;
+  }
+}
