@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5821e169a2848c450c677b378dae4f9b",
+    "revision": "fdbbfe30a354684d7ec4618e77e445f9",
     "url": "/build-n-eat/index.html"
   },
   {
-    "revision": "1cbc6eaec31493fb1f0d",
-    "url": "/build-n-eat/static/css/main.1ecf2432.chunk.css"
+    "revision": "f9febe54b4c76f80e380",
+    "url": "/build-n-eat/static/css/main.97c2e5cc.chunk.css"
   },
   {
     "revision": "2cfd8d17d16a5f71ae94",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/build-n-eat/static/js/2.5e013c71.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1cbc6eaec31493fb1f0d",
-    "url": "/build-n-eat/static/js/main.52a4d1e9.chunk.js"
+    "revision": "f9febe54b4c76f80e380",
+    "url": "/build-n-eat/static/js/main.bc11c1f0.chunk.js"
   },
   {
     "revision": "a14a1bf5535fcd667d3b",

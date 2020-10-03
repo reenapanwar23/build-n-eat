@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/build-n-eat/static/css/main.1ecf2432.chunk.css",
-    "main.js": "/build-n-eat/static/js/main.52a4d1e9.chunk.js",
-    "main.js.map": "/build-n-eat/static/js/main.52a4d1e9.chunk.js.map",
+    "main.css": "/build-n-eat/static/css/main.97c2e5cc.chunk.css",
+    "main.js": "/build-n-eat/static/js/main.bc11c1f0.chunk.js",
+    "main.js.map": "/build-n-eat/static/js/main.bc11c1f0.chunk.js.map",
     "runtime-main.js": "/build-n-eat/static/js/runtime-main.c198d31a.js",
     "runtime-main.js.map": "/build-n-eat/static/js/runtime-main.c198d31a.js.map",
     "static/js/2.5e013c71.chunk.js": "/build-n-eat/static/js/2.5e013c71.chunk.js",
     "static/js/2.5e013c71.chunk.js.map": "/build-n-eat/static/js/2.5e013c71.chunk.js.map",
     "index.html": "/build-n-eat/index.html",
-    "precache-manifest.2aafbfa5f69b09c75c44466f71f1d1af.js": "/build-n-eat/precache-manifest.2aafbfa5f69b09c75c44466f71f1d1af.js",
+    "precache-manifest.e0f22217d9e45faf64bbb6aa82723d7d.js": "/build-n-eat/precache-manifest.e0f22217d9e45faf64bbb6aa82723d7d.js",
     "service-worker.js": "/build-n-eat/service-worker.js",
-    "static/css/main.1ecf2432.chunk.css.map": "/build-n-eat/static/css/main.1ecf2432.chunk.css.map",
+    "static/css/main.97c2e5cc.chunk.css.map": "/build-n-eat/static/css/main.97c2e5cc.chunk.css.map",
     "static/js/2.5e013c71.chunk.js.LICENSE.txt": "/build-n-eat/static/js/2.5e013c71.chunk.js.LICENSE.txt",
     "static/media/Home.module.css": "/build-n-eat/static/media/BackgroundImage.a94ad329.jpg",
     "static/media/Burger-Logo.png": "/build-n-eat/static/media/Burger-Logo.b8503d26.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c198d31a.js",
     "static/js/2.5e013c71.chunk.js",
-    "static/css/main.1ecf2432.chunk.css",
-    "static/js/main.52a4d1e9.chunk.js"
+    "static/css/main.97c2e5cc.chunk.css",
+    "static/js/main.bc11c1f0.chunk.js"
   ]
 }
