@@ -1,10 +1,14 @@
-## Build-n-eat
+## 🍔 Build-n-eat 
 
+### `How to use` 
 In the project directory, you can run :
 
-### `npm install` followed by `npm start`
+#### `npm install` 
+This will download all dependencies. 
 
-This will download all dependencies and will run the app in the development mode.<br />
+#### `npm start` 
+
+This will run the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
