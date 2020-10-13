@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/build-n-eat/static/css/main.d9ef169d.chunk.css",
+    "main.css": "/build-n-eat/static/css/main.d44fba16.chunk.css",
     "main.js": "/build-n-eat/static/js/main.7773f44f.chunk.js",
     "main.js.map": "/build-n-eat/static/js/main.7773f44f.chunk.js.map",
     "runtime-main.js": "/build-n-eat/static/js/runtime-main.c198d31a.js",
@@ -8,9 +8,9 @@
     "static/js/2.5bf083b6.chunk.js": "/build-n-eat/static/js/2.5bf083b6.chunk.js",
     "static/js/2.5bf083b6.chunk.js.map": "/build-n-eat/static/js/2.5bf083b6.chunk.js.map",
     "index.html": "/build-n-eat/index.html",
-    "precache-manifest.5b6a2bcdea70c79d1864c7ab82084f00.js": "/build-n-eat/precache-manifest.5b6a2bcdea70c79d1864c7ab82084f00.js",
+    "precache-manifest.1746196f21027117950b6b86381428ba.js": "/build-n-eat/precache-manifest.1746196f21027117950b6b86381428ba.js",
     "service-worker.js": "/build-n-eat/service-worker.js",
-    "static/css/main.d9ef169d.chunk.css.map": "/build-n-eat/static/css/main.d9ef169d.chunk.css.map",
+    "static/css/main.d44fba16.chunk.css.map": "/build-n-eat/static/css/main.d44fba16.chunk.css.map",
     "static/js/2.5bf083b6.chunk.js.LICENSE.txt": "/build-n-eat/static/js/2.5bf083b6.chunk.js.LICENSE.txt",
     "static/media/Home.module.css": "/build-n-eat/static/media/BackgroundImage.a94ad329.jpg",
     "static/media/Burger-Logo.png": "/build-n-eat/static/media/Burger-Logo.b8503d26.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c198d31a.js",
     "static/js/2.5bf083b6.chunk.js",
-    "static/css/main.d9ef169d.chunk.css",
+    "static/css/main.d44fba16.chunk.css",
     "static/js/main.7773f44f.chunk.js"
   ]
 }
