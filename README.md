@@ -1,5 +1,7 @@
 ## 🍔 Build-n-eat 
 
+An application that lets you customize your burger before placing an order.
+
 ### `How to use` 
 In the project directory, you can run :
 
